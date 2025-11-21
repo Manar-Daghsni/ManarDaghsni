@@ -40,9 +40,9 @@ Solar-powered robot with adaptive navigation and wireless communication.
 
 ---
 
-### 🏡 **Connected Smart Home (ESP32 + Blynk + RFID)**  
+### 🏡 ** Smart Home (ESP32 + Blynk)**  
 IoT automation for monitoring, ventilation control & access security.  
-🔗 *Project link coming soon*
+🔗(https://github.com/Manar-Daghsni/Smart_Home_ESP32/tree/main)
 
 ---
 
