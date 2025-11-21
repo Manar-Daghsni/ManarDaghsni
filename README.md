@@ -44,7 +44,7 @@ Solar-powered system with autonomous tracking of sunlight.
 `ROS2` • `SLAM Toolbox` • `Nav2` • `Gazebo` • `RViz2`
 
 ### **Embedded Systems**
-`Raspberry Pi` • `ESP32` • `Arduino` • `STM32` • `LIDAR` • `Ultrasonic Sensors` • `IMU`
+`Raspberry Pi` • `ESP32` • `Arduino` • `STM32` 
 
 ### **Programming**
 `Python` • `C` • `C++` • `YAML` • `URDF`  
