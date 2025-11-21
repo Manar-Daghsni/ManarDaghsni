@@ -1,67 +1,62 @@
 # 👋 Hi, I'm Manar Daghsni  
-### 🚀 Electrical & Automation Engineer | 🤖 Robotics & Embedded Systems | 🧠 AI | ROS2 | SLAM
+### 🚀 Electrical & Automation Engineer | 🤖 Robotics & Embedded Systems | ROS2 | SLAM | Embedded Intelligence
 
 Welcome to my GitHub portfolio!  
-I design and build intelligent robotic systems using **ROS2**, **embedded microcontrollers**, **multi-sensor fusion**, and **AI-based perception**.  
-Passionate about autonomous navigation, embedded intelligence, and real-world robot deployment.
-
+I design and build intelligent robotic systems using **ROS2**, **embedded microcontrollers**, **multi-sensor fusion**, and **autonomous navigation**.  
+Passionate about robots that move, sense, and interact with the real world.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛎️ **Autonomous Service Robot – ROS2, SLAM, Nav2**  
-Full robotic pipeline using Raspberry Pi 5, ESP32, Arduino Mega, SLAM Toolbox, Nav2, YOLO & NLP.  
-🔗 *Project link coming soon*
+### 🛎️ [**Waiter-Robot**](https://github.com/Manar-Daghsni/Waiter-Robot)  
+Full autonomous waiter robot pipeline using Raspberry Pi 5, ESP32, Arduino Mega, SLAM Toolbox, Nav2, and multi-sensor fusion.  
 
----
+### 🕹️ [**Waiter-Robot-Simulation**](https://github.com/Manar-Daghsni/Waiter-Robot-Simulation)  
+Gazebo & ROS2 simulation of the waiter robot with navigation, mapping, and obstacle avoidance.  
 
-### 📡 **Radar Image Texture Analysis (Neural Networks)**  
-Radar texture classification using TensorFlow & OpenCV.  
-🔗 *Project link coming soon*
+### 📡 [**ESP32-and-ROS2-MQTT**](https://github.com/Manar-Daghsni/ESP32-and-ROS2-MQTT)  
+Communication system between Raspberry Pi 5 running ROS2 and ESP32 using MQTT for table orders.  
 
----
+### 🧭 [**Ultrasonic-ROS2**](https://github.com/Manar-Daghsni/Ultrasonic-ROS2)  
+Integration of 4 ultrasonic sensors in ROS2 for distance sensing and mapping in real-time.  
 
-### 🔐 **IoT Trust Management with Blockchain & Smart Contracts**  
-Decentralized trust system using Raspberry Pi & Ethereum.  
-🔗 *Project link coming soon*
+### 🛰️ [**RPLIDAR-A1-ROS2**](https://github.com/Manar-Daghsni/RPLIDAR-A1-ROS2)  
+LIDAR A1 integration with ROS2 for SLAM, mapping, and autonomous navigation projects.  
 
----
+### 🛠️ [**STM32-radar-project**](https://github.com/Manar-Daghsni/STM32-radar-project)  
+Radar scanning and tracking system using STM32 microcontroller.  
 
-### 🛰️ **Embedded Radar System — STM32 + ESP32**  
-Scanning radar with object tracking and Java visualization.  
-🔗 *Project link coming soon*
+### 📶 [**Lora-sensor-transmission**](https://github.com/Manar-Daghsni/Lora-sensor-transmission)  
+Wireless sensor transmission using LoRa protocol with ESP32/STM32 integration.  
 
----
+### 🏡 [**Smart_Home_ESP32**](https://github.com/Manar-Daghsni/Smart_Home_ESP32)  
+IoT automation for smart home, monitoring, ventilation, and access security with ESP32 and Blynk.  
 
-### 🔆 **Mini Solar Robot**  
-Solar-powered robot with adaptive navigation and wireless communication.  
-🔗 *Project link coming soon*
+### 🌞 [**Solar_Follower**](https://github.com/Manar-Daghsni/Solar_Follower)  
+Solar-powered robot with adaptive navigation and autonomous tracking of sunlight.  
 
----
-
-### 🏡 ** Smart Home (ESP32 + Blynk)**  
-IoT automation for monitoring, ventilation control & access security.  
-🔗(https://github.com/Manar-Daghsni/Smart_Home_ESP32/tree/main)
+### 📂 [**ManarDaghsni**](https://github.com/Manar-Daghsni/ManarDaghsni)  
+Personal repository with miscellaneous experiments and projects related to robotics and embedded systems.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Robotics & AI**
-`ROS2` • `SLAM Toolbox` • `Nav2` • `YOLO` • `OpenCV` • `TensorFlow`
-
-### **Programming**
-`Python` • `C` • `C++` • `YAML` • `URDF`
+### **Robotics & Navigation**
+`ROS2` • `SLAM Toolbox` • `Nav2` • `Gazebo` • `RViz2`
 
 ### **Embedded Systems**
-`Raspberry Pi` • `ESP32` • `Arduino` • `STM32`
+`Raspberry Pi` • `ESP32` • `Arduino` • `STM32` • `LIDAR` • `Ultrasonic Sensors` • `IMU`
 
-### **Tools & Simulation**
-`Linux (Ubuntu)` • `Gazebo` • `RViz2` • `VS Code` • `STM32CubeIDE`
+### **Programming**
+`Python` • `C` • `C++` • `YAML` • `URDF`  
 
-### **Communication Protocols**
-`I2C` • `CAN` • `MQTT` • `SPI` • `UART` • `LoRa`
+### **Networking & Communication**
+`MQTT` • `I2C` • `SPI` • `UART` • `LoRa`  
+
+### **Tools & Development**
+`Linux (Ubuntu)` • `VS Code` • `STM32CubeIDE` • `Git` 
 
 ---
 
@@ -76,17 +71,10 @@ IoT automation for monitoring, ventilation control & access security.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?logo=raspberrypi&logoColor=white)
 
-
 ---
 
 ## 📫 Contact Me
 
 📧 **manardaghsni@gmail.com**  
 🔗 **LinkedIn:** https://linkedin.com/in/daghsni-manar  
-📍 Tunisia  
-
----
-
-
-
-
+📍 Tunisia
