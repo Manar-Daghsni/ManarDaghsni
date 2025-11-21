@@ -28,16 +28,13 @@ LIDAR A1 integration with ROS2 for SLAM, mapping, and autonomous navigation proj
 Radar scanning and tracking system using STM32 microcontroller.  
 
 ### 📶 [**Lora-sensor-transmission**](https://github.com/Manar-Daghsni/Lora-sensor-transmission)  
-Wireless sensor transmission using LoRa protocol with ESP32/STM32 integration.  
+Wireless sensor transmission using LoRa protocol.  
 
 ### 🏡 [**Smart_Home_ESP32**](https://github.com/Manar-Daghsni/Smart_Home_ESP32)  
 IoT automation for smart home, monitoring, ventilation, and access security with ESP32 and Blynk.  
 
 ### 🌞 [**Solar_Follower**](https://github.com/Manar-Daghsni/Solar_Follower)  
-Solar-powered robot with adaptive navigation and autonomous tracking of sunlight.  
-
-### 📂 [**ManarDaghsni**](https://github.com/Manar-Daghsni/ManarDaghsni)  
-Personal repository with miscellaneous experiments and projects related to robotics and embedded systems.
+Solar-powered system with autonomous tracking of sunlight.  
 
 ---
 
